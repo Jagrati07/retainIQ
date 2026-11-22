@@ -1,0 +1,2 @@
+Feature,Test,Retained Mean,Churned Mean,T-statistic,P-value,Cohens d
+MonthlyCharges,Welch's t-test,61.26512369540008,74.44133226324237,18.407526676414673,8.592449331547067e-73,0.446283496963266
